@@ -1,0 +1,15 @@
+C:\Users\rvkny\OneDrive\Рабочий стол\homework8C#\58\bin\Debug\net6.0\58.exe
+C:\Users\rvkny\OneDrive\Рабочий стол\homework8C#\58\bin\Debug\net6.0\58.deps.json
+C:\Users\rvkny\OneDrive\Рабочий стол\homework8C#\58\bin\Debug\net6.0\58.runtimeconfig.json
+C:\Users\rvkny\OneDrive\Рабочий стол\homework8C#\58\bin\Debug\net6.0\58.dll
+C:\Users\rvkny\OneDrive\Рабочий стол\homework8C#\58\bin\Debug\net6.0\58.pdb
+C:\Users\rvkny\OneDrive\Рабочий стол\homework8C#\58\obj\Debug\net6.0\58.csproj.AssemblyReference.cache
+C:\Users\rvkny\OneDrive\Рабочий стол\homework8C#\58\obj\Debug\net6.0\58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rvkny\OneDrive\Рабочий стол\homework8C#\58\obj\Debug\net6.0\58.AssemblyInfoInputs.cache
+C:\Users\rvkny\OneDrive\Рабочий стол\homework8C#\58\obj\Debug\net6.0\58.AssemblyInfo.cs
+C:\Users\rvkny\OneDrive\Рабочий стол\homework8C#\58\obj\Debug\net6.0\58.csproj.CoreCompileInputs.cache
+C:\Users\rvkny\OneDrive\Рабочий стол\homework8C#\58\obj\Debug\net6.0\58.dll
+C:\Users\rvkny\OneDrive\Рабочий стол\homework8C#\58\obj\Debug\net6.0\refint\58.dll
+C:\Users\rvkny\OneDrive\Рабочий стол\homework8C#\58\obj\Debug\net6.0\58.pdb
+C:\Users\rvkny\OneDrive\Рабочий стол\homework8C#\58\obj\Debug\net6.0\58.genruntimeconfig.cache
+C:\Users\rvkny\OneDrive\Рабочий стол\homework8C#\58\obj\Debug\net6.0\ref\58.dll
